@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">App Mobile Slime Rancher</string>
+    <string name="Texto1Comida">Os slimes são alimentado são divididas em três tipos:Frutas que crescem em árvores,vegetais que crescem no solo e carne que são as galinhas.</string>
+    <string name="vegetais">Vegetais</string>
+    <string name="frutas">Frutas</string>
+    <string name="carnes">Carnes</string>
+    <string name="Texto2Comida">Cada slime tem uma dieta particular, e a maioria deles comerá alimentos de uma das três categorias de alimentos padrão e não comerá alimentos fora de sua dieta.</string>
+    <string name="a_fazenda">A Fazenda</string>
+    <string name="comidas">Comidas</string>
+    <string name="Texto1Fazenda">A fazenda é a base principal de operações para a personagem Beatrix LeBeau.  Nela é possível criar slimes e cultiva alimentos podendo expandir seu território conforme adquire moedas.</string>
+    <string name ="Texto2Fazemda">Na fazenda há  terrenos onde você pode construir currais, plantações, galinheiros, entre outros recursos que  ajudam a progredir no jogo.</string>
+    <string name="Texto1Slime">Existem diferentes tipos de slimes no jogo, que diferem com suas funções, formas e tamanhos.</string>
+    <string name ="doceis">Dóceis</string>
+    <string name="nocivos">Nocivos</string>
+    <string name="especiais">Especiais</string>
+    <string name="hostis">Hostis</string>
+    <string name="slimeferal">Slime Feral</string>
+    <string name="slimetarr">Slime Tarr</string>
+    <string name="Texto1Sobre">O jogo acontece em um mundo aberto, em  perspectiva de primeira pessoa.  O jogador controla a personagem Beatrix LeBeau , uma fazendeira que se muda para um planeta distante da Terra para viver a vida de uma &quot;slime rancher&quot;, que consiste em construir seu rancho e explorar o ambiente, a fim de coletar, criar, alimentar Slimes , organismos vivos gelatinosos de vários tamanhos e características.</string>
+    <string name="Texto2Sobre">Slime Rancher O jogo foi lançado como um título de acesso antecipado em janeiro de 2016, com lançamento oficial para Windows, macOS, Linux e Xbox One em 1º de agosto de 2017.</string>
+    <string name="TextoSlime1">Existem diferentes tipos de slimes no jogo, que diferem com suas funções, formas e tamanhos.</string>
+    <string name="slimes">Slimes</string>
+    <string name="voltar">Voltar</string>
+    <string name="sobre">Sobre</string>
+    <string name="afazenda">A Fazenda</string>
+</resources>
