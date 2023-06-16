@@ -12,7 +12,7 @@ sobre a história e mecânica do jogo, como os personagens, terrenos e funções
 ### Tela inicial:
 
 
-![tela1](https://github.com/mabrunhara/AppMobileSlimeRancher/assets/101645595/08e56b06-b6b1-4f9d-a1f4-7262039a4934)
+![tela1](https://github.com/mabrunhara/AppSlimeRancherFinal/assets/101645595/e68595dc-2600-485b-a923-696c649e7a19)
 
 
 
