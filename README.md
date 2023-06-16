@@ -1,8 +1,10 @@
-# AppMobileSlimeRancher
+## AppMobileSlimeRancher
+
+#Maria Clara e Henrique Vitor 3° Jogos
 
 Vídeo Apresentação: https://youtu.be/dXCGHIkETKU 
 
-Maria Clara e Henrique Vitor 3° Jogos
+
 
 O app é uma wiki do jogo Slime Rancher, onde o usuário acessa as informações básicas 
 sobre a história e mecânica do jogo, como os personagens, terrenos e funções do game.
