@@ -1,6 +1,6 @@
 ## AppMobileSlimeRancher
 
-#Maria Clara e Henrique Vitor 3° Jogos
+# Maria Clara e Henrique Vitor 3° Jogos
 
 Vídeo Apresentação: https://youtu.be/dXCGHIkETKU 
 
