@@ -20,7 +20,7 @@ sobre a história e mecânica do jogo, como os personagens, terrenos e funções
 Na tela  “Sobre” e contado um pouco sobre a história e criação do game.
 
 
-![TELA2](https://github.com/mabrunhara/AppMobileSlimeRancher/assets/101645595/e9faf425-f4f3-46db-8c0c-0fe8d3986d52)
+![TELA2](https://github.com/mabrunhara/AppSlimeRancherFinal/assets/101645595/611b5657-b9a5-4193-9d2d-72cc028b8866)
 
 
 
@@ -28,7 +28,7 @@ Na tela  “Sobre” e contado um pouco sobre a história e criação do game.
 Na tela “comidas” são apresentados os alimentos de cada personagem, ou melhor, slime.
 
 
-![tela3](https://github.com/mabrunhara/AppMobileSlimeRancher/assets/101645820/01419901-0670-44e4-a2ce-e7987ea8919e)
+![tela3 (1)](https://github.com/mabrunhara/AppSlimeRancherFinal/assets/101645595/88aec526-3b90-4a49-98ff-4de5e42ecef2)
 
 
 ### Slimes
@@ -36,13 +36,13 @@ Na tela “comidas” são apresentados os alimentos de cada personagem, ou melh
 Na tela “slimes” são apresentados os principais personagens e suas classificações
 
 
-![tela4](https://github.com/mabrunhara/AppMobileSlimeRancher/assets/101645820/23630f43-5787-4f02-891c-9a06b1e19e03)
+![tela4 (1)](https://github.com/mabrunhara/AppSlimeRancherFinal/assets/101645595/2240bf7a-2ad5-4881-a636-728598f9cc8d)
 
 ### A Fazenda
 Na tela “a fazenda” apresenta-se o território em que o jogo ocorre e os upgrades possíveis para expansão dos itens e criação dos slimes
 
 
-![image](https://github.com/mabrunhara/AppMobileSlimeRancher/assets/101645595/51bd465d-1986-4122-a945-b45008e7932d)
+![image](https://github.com/mabrunhara/AppSlimeRancherFinal/assets/101645595/ecfa8135-deae-439b-8a6c-e868b670e26f)
 
 
 ### Strings
@@ -51,4 +51,4 @@ Todas as Strings existentes no app:
 
 
 
-![strings](https://github.com/mabrunhara/AppMobileSlimeRancher/assets/101645820/272a34b5-9b49-468b-bce0-d55c55f260f5)
+![strings (1)](https://github.com/mabrunhara/AppSlimeRancherFinal/assets/101645595/ca0b6a61-3c96-4004-878e-69101a8e7bdf)
